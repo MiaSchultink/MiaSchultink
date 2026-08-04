@@ -8,5 +8,4 @@ Interested in robotics and mechanical engineering. I like creating and building 
 
 **Tools Iv'e used**: Java, JavaScript, Node.js, npm, ejs, MongoDB, ReactJS, Python, Autodesk Fusion 360, Bambu Studio. 
 
-**Contact**: mia.schultink@gmail.com
 
