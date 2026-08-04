@@ -2,7 +2,7 @@
 
 Interested in robotics and mechanical engineering. I like creating and building things that move - from modeling rough ideas to building and making them come to life to writing the software that controls them. 
 
-**A little about me**: FRC alum - mechanical lead · captain 
+**A little about me**: FRC alum - mechanical lead · captain - headed for studying mechanical / robotics engineering
 
 **Into**: mechatronics · hands-on building · 3D Design · 3D Printing · Software
 
