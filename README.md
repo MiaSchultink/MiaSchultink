@@ -6,6 +6,6 @@ Interested in robotics and mechanical engineering. I like creating and building 
 
 **Into**: mechatronics · hands-on building · 3D Design · 3D Printing · Software
 
-**Tools Iv'e used**: Java, JavaScript, Node.js, npm, ejs, MongoDB, ReactJS, Python, Autodesk Fusion 360, Bambu Studio. 
+**Tools Iv'e used**: Java, JavaScript, NodeJS, npm, ejs, MongoDB, ReactJS, Python, Autodesk Fusion 360, Bambu Studio. 
 
 
